@@ -66,6 +66,7 @@ This project proposes a secure land registry system based on **Ethereum blockcha
 
 ### Transfering Ownership
 
+![image](https://github.com/user-attachments/assets/a8839ed5-c50d-4944-9d50-c7d6519bd9fc)
 
 
 
