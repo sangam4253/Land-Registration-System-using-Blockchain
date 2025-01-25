@@ -55,5 +55,20 @@ This project proposes a secure land registry system based on **Ethereum blockcha
 - **Frontend**: Built with modern web technologies like HTML, CSS, and JavaScript.
 
 ---
+## Implementation
+### Home Page
+![image](https://github.com/user-attachments/assets/e0719887-e4b2-4739-aa59-fb5a9f77aafb)
+### Contract owner Dashboard
+![image](https://github.com/user-attachments/assets/060b3f38-b3e8-4cdd-8e96-55d9b7c096f2)
+
+### Land Inspector Dashboard
+![image](https://github.com/user-attachments/assets/4fbaadd2-f338-492d-9116-1b07b3669f74)
+
+### Transfering Ownership
+
+
+
+
+
 
 
